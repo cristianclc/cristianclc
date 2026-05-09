@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Cristian Linero
 ========================================================================================================================================
-Data Scientist
+About me:
 --------------
 Data Science student focused on statistical modeling, machine learning, and time series analysis.
 Experience building predictive models (ARIMA/SARIMA, Random Forest, XGBoost) and developing end-to-end solutions with FastAPI and Docker.
