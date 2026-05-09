@@ -9,6 +9,8 @@ Python | SQL | Power BI
 * 🌍  I'm based in Barranquilla, Colombia
 * ✉️  You can contact me at [cristianclineroc@gmail.com](mailto:cristianclineroc@gmail.com)
 
+### Skills
+
 <table border="0" cellspacing="10" cellpadding="0">
 <tr>
 <td><a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a></td>
