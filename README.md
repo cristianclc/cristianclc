@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 About me:
 --------------
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="400">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="400" align="right"/>
 
 Data Science student focused on statistical modeling, machine learning, and time series analysis.
 Experience building predictive models (ARIMA/SARIMA, Random Forest, XGBoost) and developing end-to-end solutions with FastAPI and Docker.
