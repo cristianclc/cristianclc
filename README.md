@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 About me:
 --------------
 
-<img src="[URL_DEL_GIF](https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif)" width="400" align="right" />
+<img src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif" width="400" align="right" />
 
 Data Science student focused on statistical modeling, machine learning, and time series analysis.
 Experience building predictive models (ARIMA/SARIMA, Random Forest, XGBoost) and developing end-to-end solutions with FastAPI and Docker.
