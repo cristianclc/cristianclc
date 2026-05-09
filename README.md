@@ -5,6 +5,7 @@ Data Scientist
 Data Science student focused on statistical modeling, machine learning, and time series analysis.
 Experience building predictive models (ARIMA/SARIMA, Random Forest, XGBoost) and developing end-to-end solutions with FastAPI and Docker.
 Interested in geospatial analysis, real-world data applications, and deep learning research.
+
 Python | SQL | Power BI
 * 🌍  I'm based in Barranquilla, Colombia
 * ✉️  You can contact me at [cristianclineroc@gmail.com](mailto:cristianclineroc@gmail.com)
